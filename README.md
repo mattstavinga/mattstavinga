@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello and welcome to my page!
+
+🌱 I’m currently learning Java Full Stack Development at Tech Elevator (Java, SQL, Postgres, HTML, CSS, JavaScript, Vue.js)
+
+🔭 I’m currently working on 2 projects - Beer-me & a trivia website
+
+⚡ Fun fact: Avid traveler, Professional Ultimate Frisbee Player, Brewery aficionado 
+
+[Linkedin](www.linkedin.com/in/matthew-stavinga)
 
 <!--
 **mattstavinga/mattstavinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
