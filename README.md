@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on 2 projects - Beer-me & a trivia website
 
-⚡ Fun fact: Avid traveler, Professional Ultimate Frisbee Player, Brewery aficionado 
+⚡ Fun facts: Avid traveler, Professional Ultimate Frisbee Player, Brewery aficionado 
 
 [Linkedin](www.linkedin.com/in/matthew-stavinga)
 
