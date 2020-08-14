@@ -6,7 +6,6 @@
 
 ⚡ Fun facts: Avid traveler, Professional Ultimate Frisbee Player, Brewery aficionado 
 
-[Linkedin](www.linkedin.com/in/matthew-stavinga)
 
 <!--
 **mattstavinga/mattstavinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
