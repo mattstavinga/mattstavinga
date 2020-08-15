@@ -1,6 +1,6 @@
 # Hello and welcome to my page!
 
-🌱 I’m currently learning Java Full Stack Development at Tech Elevator (Java, SQL, Postgres, HTML, CSS, JavaScript, Vue.js)
+🌱 I am a graduate of Tech Elevator from their Java Full Stack Development program (Java, SQL, Postgres, HTML, CSS, JavaScript, Vue.js)
 
 🔭 I’m currently working on 2 projects - Beer-me & a trivia website
 
