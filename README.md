@@ -2,7 +2,7 @@
 
 🌱 I am a graduate of Tech Elevator from their Java Full Stack Development program (Java, SQL, Postgres, HTML, CSS, JavaScript, Vue.js)
 
-🔭 I’m currently working on 2 projects - Beer-me & a trivia website
+🔭 I’m currently working on Beer-me
 
 ⚡ Fun facts: Avid traveler, Professional Ultimate Frisbee Player, Brewery aficionado 
 
